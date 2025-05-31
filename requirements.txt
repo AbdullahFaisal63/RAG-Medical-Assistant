@@ -1,0 +1,7 @@
+huggingface_hub==0.25.2
+gradio>=4.44.0
+faiss-cpu>=1.8.0
+sentence-transformers>=3.0.1
+google-generativeai>=0.8.2
+pandas>=2.2.2
+numpy>=1.26.4
